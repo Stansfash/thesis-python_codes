@@ -3,8 +3,8 @@
 Machine learning algorithms for detecting grazing events.
 
 ## Files
-- `grazing_event_detection.ipynb` - Complete analysis notebook
+- `Chapter_6_Grazing_Detection_Notebook.ipynb` - Complete analysis notebook
 
 ## Usage
 ```bash
-jupyter notebook grazing_event_detection.ipynb
+jupyter notebook Chapter_6_Grazing_Detection_Notebook.ipynb
