@@ -1,4 +1,4 @@
-# Chapter 4: Machine Learning & Multi-Objective Optimization
+# Chapter 4: Machine Learning & Multi-Objective Optimisation
 
 This folder contains the code for Chapter 4 of the thesis, which
 develops and compares machine learning models and multi-objective
@@ -35,8 +35,8 @@ python train_model.py
 **Key components:**
 - `DairyOptimisationProblem` - Multi-objective problem definition
 - `get_dynamic_bounds()` - Dynamic constraint generation
-- `get_algorithm()` - Algorithm initialization
-- `optimize_single_run()` - Main optimization loop
+- `get_algorithm()` - Algorithm initialisation
+- `optimize_single_run()` - Main optimisation loop
 
 **Algorithms:**
 - NSGA-II
