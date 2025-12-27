@@ -16,7 +16,7 @@ Comparative evaluation of ML models and Scipy differential evolution for concent
 - Algorithm: Scipy differential evolution
 - Constraints: Linear constraints for daily budget
 - Dynamic bounds based on previous day
-- 91-day optimization period
+- 91-day optimisation period
 
 ## Usage
 ```bash
